@@ -12,8 +12,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-color: #2c3e50; /* Fondo oscuro */
+                color: #ecf0f1; /* Texto claro */
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
@@ -46,10 +46,11 @@
 
             .title {
                 font-size: 84px;
+                color: #e74c3c; /* Título en rojo */
             }
 
             .links > a {
-                color: #636b6f;
+                color: #1abc9c; /* Enlaces en verde */
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -81,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    hola, a todos los que están viendo esto, soy un nuevo desarrollador de Laravel
                 </div>
 
                 <div class="links">
